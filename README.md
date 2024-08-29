@@ -1,1 +1,1 @@
-# 1-cosc-designs
+# 1/ cos(c)-designs
